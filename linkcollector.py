@@ -286,7 +286,7 @@ class Ui_Form(object):
 
             # String of links
             self.strLinks = ""
-
+ 
             # Add list's elements to string
             num = 1
             for i in self.links:
@@ -298,6 +298,11 @@ class Ui_Form(object):
 
             # Display urls
             self.label.setText(self.strLinks)
+
+            self.filteredLinks = self.links
+
+            # Enable open link button
+            self.pushButton.setEnabled(True)
 
         # If url if invalid
         except:
@@ -328,8 +333,6 @@ class Ui_Form(object):
             self.strLinks += '\n'
             num += 1
 
-        # Enable open link button
-        self.pushButton.setEnabled(True)
         self.label.setText(self.strLinks)
 
     # Open selected link
