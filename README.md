@@ -8,4 +8,5 @@ WHAT DOES IT DO: This program collects the links that at the url that you have g
 PROGRAM NE YAPIYOR: Bu program kullanıcının verdiği URL'deki linkleri toplayıp kullanıcıya sunar. İsteğe bağlı olarak linkler filtrelenebilir. Örnek olarak; sadece içinde 'github' kelimesi olan linkleri alacak şekilde filtreleyebilirsiniz.
 
 PHOTOS:
+
 ![alt text](https://github.com/SukruGokk/python-GUI-link-collector/blob/master/photo1.jpg)
