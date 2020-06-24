@@ -10,3 +10,5 @@ PROGRAM NE YAPIYOR: Bu program kullanıcının verdiği URL'deki linkleri toplay
 PHOTOS:
 
 ![alt text](https://github.com/SukruGokk/python-GUI-link-collector/blob/master/photo1.jpg)
+![alt text](https://github.com/SukruGokk/python-GUI-link-collector/blob/master/photo2.jpg)
+![alt text](https://github.com/SukruGokk/python-GUI-link-collector/blob/master/photo3.jpg)
